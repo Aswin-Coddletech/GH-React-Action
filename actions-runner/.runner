@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 22,
+  "agentName": "self-hosted",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i",
+  "gitHubUrl": "https://github.com/Aswin-Coddletech/GH-React-Action",
+  "workFolder": "_work"
+}
