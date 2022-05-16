@@ -1,0 +1,129 @@
+[2022-05-16 09:36:57Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-05-16 09:36:57Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:57Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:57Z INFO HostContext] Well known config file 'Credentials': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials'
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:58Z INFO HostContext] Well known config file 'Runner': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.runner'
+[2022-05-16 09:36:58Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2022-05-16 09:36:58Z INFO Listener] RuntimeInformation: Darwin 19.6.0 Darwin Kernel Version 19.6.0: Tue Feb 15 21:39:11 PST 2022; root:xnu-6153.141.59~1/RELEASE_X86_64.
+[2022-05-16 09:36:58Z INFO Listener] Version: 2.291.1
+[2022-05-16 09:36:58Z INFO Listener] Commit: 496ec0df97891bd8e50f4431d01874ac3ab75a93
+[2022-05-16 09:36:58Z INFO Listener] Culture: en-GB
+[2022-05-16 09:36:58Z INFO Listener] UI Culture: en-GB
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:58Z INFO Listener] Validating directory permissions for: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:58Z INFO CommandLineParser] Parse
+[2022-05-16 09:36:58Z INFO CommandLineParser] Parsing 1 args
+[2022-05-16 09:36:58Z INFO CommandLineParser] parsing argument
+[2022-05-16 09:36:58Z INFO CommandLineParser] HasArgs: False
+[2022-05-16 09:36:58Z INFO CommandLineParser] Adding Command: run
+[2022-05-16 09:36:58Z INFO Listener] Arguments parsed
+[2022-05-16 09:36:58Z INFO Runner] ExecuteCommand
+[2022-05-16 09:36:58Z INFO ConfigurationStore] currentAssemblyLocation: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin/Runner.Listener.dll
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:58Z INFO ConfigurationStore] binPath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:58Z INFO ConfigurationStore] RootFolder: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:58Z INFO HostContext] Well known config file 'Runner': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.runner'
+[2022-05-16 09:36:58Z INFO ConfigurationStore] ConfigFilePath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.runner
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:58Z INFO HostContext] Well known config file 'Credentials': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials'
+[2022-05-16 09:36:58Z INFO ConfigurationStore] CredFilePath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:58Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_migrated'
+[2022-05-16 09:36:58Z INFO ConfigurationStore] MigratedCredFilePath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_migrated
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:58Z INFO HostContext] Well known config file 'Service': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.service'
+[2022-05-16 09:36:58Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.service
+[2022-05-16 09:36:58Z INFO CommandSettings] Flag 'help': 'False'
+[2022-05-16 09:36:58Z INFO CommandSettings] Flag 'version': 'False'
+[2022-05-16 09:36:58Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-05-16 09:36:58Z INFO CommandSettings] Flag 'check': 'False'
+[2022-05-16 09:36:58Z INFO CommandSettings] Command 'configure': 'False'
+[2022-05-16 09:36:58Z INFO CommandSettings] Command 'remove': 'False'
+[2022-05-16 09:36:58Z INFO CommandSettings] Command 'warmup': 'False'
+[2022-05-16 09:36:58Z INFO ConfigurationManager] LoadSettings
+[2022-05-16 09:36:58Z INFO ConfigurationStore] IsConfigured()
+[2022-05-16 09:36:58Z INFO ConfigurationStore] IsConfigured: True
+[2022-05-16 09:36:58Z INFO ConfigurationManager] Is configured: True
+[2022-05-16 09:36:58Z INFO ConfigurationStore] Read setting file: 301 chars
+[2022-05-16 09:36:58Z INFO ConfigurationManager] Settings Loaded
+[2022-05-16 09:36:58Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-05-16 09:36:58Z INFO ConfigurationStore] IsServiceConfigured: False
+[2022-05-16 09:36:58Z INFO CommandSettings] Command 'run': 'True'
+[2022-05-16 09:36:58Z INFO ConfigurationStore] IsConfigured()
+[2022-05-16 09:36:58Z INFO ConfigurationStore] IsConfigured: True
+[2022-05-16 09:36:58Z INFO ConfigurationManager] Is configured: True
+[2022-05-16 09:36:58Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2022-05-16 09:36:58Z INFO Runner] Set runner startup type - Manual
+[2022-05-16 09:36:58Z INFO CommandSettings] Flag 'once': 'False'
+[2022-05-16 09:36:58Z INFO CommandSettings] Flag 'once': 'False'
+[2022-05-16 09:36:58Z INFO Runner] RunAsync
+[2022-05-16 09:36:58Z INFO ConfigurationManager] LoadSettings
+[2022-05-16 09:36:58Z INFO ConfigurationStore] IsConfigured()
+[2022-05-16 09:36:58Z INFO ConfigurationStore] IsConfigured: True
+[2022-05-16 09:36:58Z INFO ConfigurationManager] Is configured: True
+[2022-05-16 09:36:58Z INFO ConfigurationManager] Settings Loaded
+[2022-05-16 09:36:58Z INFO MessageListener] {
+  "AgentId": 22,
+  "AgentName": "self-hosted",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i",
+  "GitHubUrl": "https://github.com/Aswin-Coddletech/GH-React-Action",
+  "WorkFolder": "_work"
+}
+[2022-05-16 09:36:58Z INFO MessageListener] Loading Credentials
+[2022-05-16 09:36:58Z INFO ConfigurationStore] HasCredentials()
+[2022-05-16 09:36:58Z INFO ConfigurationStore] stored True
+[2022-05-16 09:36:58Z INFO CredentialManager] GetCredentialProvider
+[2022-05-16 09:36:58Z INFO CredentialManager] Creating type OAuth
+[2022-05-16 09:36:58Z INFO CredentialManager] Creating credential type: OAuth
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:36:58Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner'
+[2022-05-16 09:36:58Z INFO HostContext] Well known config file 'RSACredentials': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams'
+[2022-05-16 09:36:58Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2022-05-16 09:36:58Z INFO MessageListener] Attempt to create session.
+[2022-05-16 09:36:58Z INFO MessageListener] Connecting to the Runner Server...
+[2022-05-16 09:36:58Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-05-16 09:36:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-16 09:36:58Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-16 09:36:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-16 09:36:58Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-16 09:36:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-16 09:36:59Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-16 09:37:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-16 09:37:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-16 09:37:00Z INFO MessageListener] VssConnection created
+[2022-05-16 09:37:00Z INFO Terminal] WRITE LINE: 
+[2022-05-16 09:37:00Z INFO Terminal] WRITE LINE: 
+[2022-05-16 09:37:00Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 9e1a84e2-36a2-4239-b482-bffc427a3673
+ActivityId: 9e2fc229-9966-4e04-8fd5-e3b371bd9f25
+X-TFS-Session: 0fea0814-e0c8-4cc9-b6bc-bcf6519f0a2f
+X-VSS-E2EID: 83d6b2fb-8a46-450a-86d6-edf0ac8aff78
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: C8B790AD6D6B4F4AA9A84293FC628929 Ref B: MAA01EDGE0411 Ref C: 2022-05-16T09:37:00Z
+Date: Mon, 16 May 2022 09:37:00 GMT
+
+[2022-05-16 09:37:01Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2022-05-16 09:37:01Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2022-05-16 09:37:01Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-16 09:37:02Z INFO MessageListener] Session created.
+[2022-05-16 09:37:02Z INFO Terminal] WRITE LINE: Current runner version: '2.291.1'
+[2022-05-16 09:37:02Z INFO Terminal] WRITE LINE: 2022-05-16 09:37:02Z: Listening for Jobs
+[2022-05-16 09:37:02Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
