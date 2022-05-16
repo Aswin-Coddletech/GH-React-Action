@@ -127,3 +127,38 @@ Date: Mon, 16 May 2022 09:37:00 GMT
 [2022-05-16 09:37:02Z INFO Terminal] WRITE LINE: Current runner version: '2.291.1'
 [2022-05-16 09:37:02Z INFO Terminal] WRITE LINE: 2022-05-16 09:37:02Z: Listening for Jobs
 [2022-05-16 09:37:02Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2022-05-16 09:39:40Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2022-05-16 09:39:40Z INFO MessageListener] Message '3' received from session '64f2b201-8942-4f3a-9121-819163bb5d2d'.
+[2022-05-16 09:39:40Z INFO Runner] Received job message of length 21423 from service, with hash 'a5642edc88b812cc4263e9ad6be2058d44bb81b384570de42aa18b3ac3ec12a0'
+[2022-05-16 09:39:40Z INFO JobDispatcher] Job request 14 for plan d6168975-562c-4702-8b84-75ee6a70036d job ca395085-040a-526b-2ce8-bdc85f692774 received.
+[2022-05-16 09:39:40Z INFO JobDispatcher] Pull OrchestrationId d6168975-562c-4702-8b84-75ee6a70036d.build.__default from JWT claims
+[2022-05-16 09:39:40Z INFO Terminal] WRITE LINE: 2022-05-16 09:39:40Z: Running job: build
+[2022-05-16 09:39:40Z INFO JobDispatcher] Start renew job request 14 for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-16 09:39:41Z INFO JobDispatcher] Successfully renew job request 14, job is valid till 16/05/2022 09:49:41
+[2022-05-16 09:39:41Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   File name: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin/Runner.Worker'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 112 115'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2022-05-16 09:39:41Z INFO ProcessInvokerWrapper] Process started with process id 2446, waiting for process exit.
+[2022-05-16 09:39:41Z INFO JobDispatcher] Send job request message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-16 09:39:41Z INFO ProcessChannel] Sending message of length 21423, with hash 'a5642edc88b812cc4263e9ad6be2058d44bb81b384570de42aa18b3ac3ec12a0'
+[2022-05-16 09:39:41Z INFO JobNotification] Entering JobStarted Notification
+[2022-05-16 09:39:41Z INFO JobNotification] Entering StartMonitor
+[2022-05-16 09:40:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-16 09:40:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-16 09:40:09Z INFO ProcessInvokerWrapper] Finished process 2446 with exit code 102, and elapsed time 00:00:27.6999542.
+[2022-05-16 09:40:09Z INFO JobDispatcher] Worker finished for job ca395085-040a-526b-2ce8-bdc85f692774. Code: 102
+[2022-05-16 09:40:09Z INFO JobDispatcher] finish job request for job ca395085-040a-526b-2ce8-bdc85f692774 with result: Failed
+[2022-05-16 09:40:09Z INFO Terminal] WRITE LINE: 2022-05-16 09:40:09Z: Job build completed with result: Failed
+[2022-05-16 09:40:09Z INFO JobDispatcher] Stop renew job request for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-16 09:40:09Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 14.
+[2022-05-16 09:40:09Z INFO JobNotification] Entering JobCompleted Notification
+[2022-05-16 09:40:09Z INFO JobNotification] Entering EndMonitor
