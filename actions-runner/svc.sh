@@ -1,8 +1,8 @@
 #!/bin/bash
 
-SVC_NAME="actions.runner.Aswin-Coddletech-GH-React-Action.self-hosted"
+SVC_NAME="actions.runner.Aswin-Coddletech-GH-React-Action.self-hosted-runner"
 SVC_NAME=${SVC_NAME// /_}
-SVC_DESCRIPTION="GitHub Actions Runner (Aswin-Coddletech-GH-React-Action.self-hosted)"
+SVC_DESCRIPTION="GitHub Actions Runner (Aswin-Coddletech-GH-React-Action.self-hosted-runner)"
 
 user_id=`id -u`
 
