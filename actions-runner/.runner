@@ -1,6 +1,6 @@
 ﻿{
-  "agentId": 23,
-  "agentName": "self-hosted-runner",
+  "agentId": 24,
+  "agentName": "selr-hosted-runner",
   "poolId": 1,
   "poolName": "Default",
   "serverUrl": "https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i",

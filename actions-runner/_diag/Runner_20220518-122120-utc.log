@@ -1,0 +1,225 @@
+[2022-05-18 12:21:20Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-05-18 12:21:20Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:20Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:20Z INFO HostContext] Well known config file 'Credentials': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials'
+[2022-05-18 12:21:20Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:20Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:20Z INFO HostContext] Well known config file 'Runner': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.runner'
+[2022-05-18 12:21:21Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2022-05-18 12:21:21Z INFO Listener] RuntimeInformation: Darwin 19.6.0 Darwin Kernel Version 19.6.0: Tue Feb 15 21:39:11 PST 2022; root:xnu-6153.141.59~1/RELEASE_X86_64.
+[2022-05-18 12:21:21Z INFO Listener] Version: 2.291.1
+[2022-05-18 12:21:21Z INFO Listener] Commit: 496ec0df97891bd8e50f4431d01874ac3ab75a93
+[2022-05-18 12:21:21Z INFO Listener] Culture: en-GB
+[2022-05-18 12:21:21Z INFO Listener] UI Culture: en-GB
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:21Z INFO Listener] Validating directory permissions for: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:21Z INFO CommandLineParser] Parse
+[2022-05-18 12:21:21Z INFO CommandLineParser] Parsing 5 args
+[2022-05-18 12:21:21Z INFO CommandLineParser] parsing argument
+[2022-05-18 12:21:21Z INFO CommandLineParser] HasArgs: False
+[2022-05-18 12:21:21Z INFO CommandLineParser] Adding Command: configure
+[2022-05-18 12:21:21Z INFO CommandLineParser] parsing argument
+[2022-05-18 12:21:21Z INFO CommandLineParser] HasArgs: True
+[2022-05-18 12:21:21Z INFO CommandLineParser] arg: url
+[2022-05-18 12:21:21Z INFO CommandLineParser] parsing argument
+[2022-05-18 12:21:21Z INFO CommandLineParser] HasArgs: True
+[2022-05-18 12:21:21Z INFO CommandLineParser] Adding option 'url': 'https://github.com/Aswin-Coddletech/GH-React-Action'
+[2022-05-18 12:21:21Z INFO CommandLineParser] parsing argument
+[2022-05-18 12:21:21Z INFO CommandLineParser] HasArgs: True
+[2022-05-18 12:21:21Z INFO CommandLineParser] arg: token
+[2022-05-18 12:21:21Z INFO CommandLineParser] parsing argument
+[2022-05-18 12:21:21Z INFO CommandLineParser] HasArgs: True
+[2022-05-18 12:21:21Z INFO CommandLineParser] Adding option 'token': '***'
+[2022-05-18 12:21:21Z INFO Listener] Arguments parsed
+[2022-05-18 12:21:21Z INFO Runner] ExecuteCommand
+[2022-05-18 12:21:21Z INFO ConfigurationStore] currentAssemblyLocation: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin/Runner.Listener.dll
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:21Z INFO ConfigurationStore] binPath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:21Z INFO ConfigurationStore] RootFolder: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:21Z INFO HostContext] Well known config file 'Runner': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.runner'
+[2022-05-18 12:21:21Z INFO ConfigurationStore] ConfigFilePath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.runner
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:21Z INFO HostContext] Well known config file 'Credentials': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials'
+[2022-05-18 12:21:21Z INFO ConfigurationStore] CredFilePath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:21Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_migrated'
+[2022-05-18 12:21:21Z INFO ConfigurationStore] MigratedCredFilePath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_migrated
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:21Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:21Z INFO HostContext] Well known config file 'Service': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.service'
+[2022-05-18 12:21:21Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.service
+[2022-05-18 12:21:21Z INFO CommandSettings] Flag 'help': 'False'
+[2022-05-18 12:21:21Z INFO CommandSettings] Flag 'version': 'False'
+[2022-05-18 12:21:21Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-05-18 12:21:21Z INFO CommandSettings] Flag 'check': 'False'
+[2022-05-18 12:21:21Z INFO CommandSettings] Command 'configure': 'True'
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: 
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-05-18 12:21:21Z INFO Terminal] WRITE: |                       
+[2022-05-18 12:21:21Z INFO Terminal] WRITE: Self-hosted runner registration
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE:                         |
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-05-18 12:21:21Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-05-18 12:21:21Z INFO ConfigurationManager] ConfigureAsync
+[2022-05-18 12:21:21Z INFO ConfigurationStore] IsConfigured()
+[2022-05-18 12:21:21Z INFO ConfigurationStore] IsConfigured: False
+[2022-05-18 12:21:21Z INFO ConfigurationManager] Is configured: False
+[2022-05-18 12:21:21Z INFO CommandSettings] Arg 'url': 'https://github.com/Aswin-Coddletech/GH-React-Action'
+[2022-05-18 12:21:21Z INFO CommandSettings] Remove url from Arg dictionary.
+[2022-05-18 12:21:21Z INFO CommandSettings] Arg 'token': '***'
+[2022-05-18 12:21:21Z INFO CommandSettings] Remove token from Arg dictionary.
+[2022-05-18 12:21:24Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2022-05-18 12:21:24Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2022-05-18 12:21:24Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-05-18 12:21:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-18 12:21:25Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-18 12:21:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-18 12:21:25Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-18 12:21:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-18 12:21:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-18 12:21:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-18 12:21:26Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-18 12:21:26Z INFO Terminal] WRITE LINE: 
+[2022-05-18 12:21:26Z INFO ConfigurationManager] Test Connection complete.
+[2022-05-18 12:21:26Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:26Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:26Z INFO HostContext] Well known config file 'RSACredentials': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams'
+[2022-05-18 12:21:26Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2022-05-18 12:21:27Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-18 12:21:27Z INFO RSAFileKeyManager] Which: 'chmod'
+[2022-05-18 12:21:27Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2022-05-18 12:21:27Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:27Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper] Process started with process id 6858, waiting for process exit.
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-18 12:21:27Z INFO ProcessInvokerWrapper] Finished process 6858 with exit code 0, and elapsed time 00:00:00.0755766.
+[2022-05-18 12:21:27Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-18 12:21:28Z INFO CommandSettings] Arg 'runnergroup': ''
+[2022-05-18 12:21:28Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-05-18 12:21:28Z INFO PromptManager] ReadValue
+[2022-05-18 12:21:28Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2022-05-18 12:21:28Z INFO Terminal] WRITE: [press Enter for Default] 
+[2022-05-18 12:21:28Z INFO Terminal] READ LINE
+[2022-05-18 12:21:30Z INFO Terminal] Read value: ''
+[2022-05-18 12:21:30Z INFO PromptManager] Falling back to the default: 'Default'
+[2022-05-18 12:21:30Z INFO Terminal] WRITE LINE: 
+[2022-05-18 12:21:30Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2022-05-18 12:21:30Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-05-18 12:21:30Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-05-18 12:21:30Z INFO CommandSettings] Arg 'name': ''
+[2022-05-18 12:21:30Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-05-18 12:21:30Z INFO PromptManager] ReadValue
+[2022-05-18 12:21:30Z INFO Terminal] WRITE: Enter the name of runner: 
+[2022-05-18 12:21:30Z INFO Terminal] WRITE: [press Enter for apples-MacBook-Pro] 
+[2022-05-18 12:21:30Z INFO Terminal] READ LINE
+[2022-05-18 12:21:38Z INFO Terminal] Read value: 'selr-hosted-runner'
+[2022-05-18 12:21:38Z INFO Terminal] WRITE LINE: 
+[2022-05-18 12:21:38Z INFO CommandSettings] Arg 'labels': ''
+[2022-05-18 12:21:38Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-05-18 12:21:38Z INFO PromptManager] ReadValue
+[2022-05-18 12:21:38Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2022-05-18 12:21:38Z INFO Terminal] WRITE: [press Enter to skip] 
+[2022-05-18 12:21:38Z INFO Terminal] READ LINE
+[2022-05-18 12:21:43Z INFO Terminal] Read value: ''
+[2022-05-18 12:21:43Z INFO Terminal] WRITE LINE: 
+[2022-05-18 12:21:43Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-05-18 12:21:44Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-05-18 12:21:44Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-05-18 12:21:44Z INFO ConfigurationStore] Saving OAuth credential @ /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials
+[2022-05-18 12:21:44Z INFO ConfigurationStore] Credentials Saved.
+[2022-05-18 12:21:44Z INFO ConfigurationStore] HasCredentials()
+[2022-05-18 12:21:44Z INFO ConfigurationStore] stored True
+[2022-05-18 12:21:44Z INFO CredentialManager] GetCredentialProvider
+[2022-05-18 12:21:44Z INFO CredentialManager] Creating type OAuth
+[2022-05-18 12:21:44Z INFO CredentialManager] Creating credential type: OAuth
+[2022-05-18 12:21:44Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-18 12:21:44Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-05-18 12:21:44Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-18 12:21:44Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-18 12:21:44Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-18 12:21:44Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-18 12:21:44Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-18 12:21:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-18 12:21:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-18 12:21:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-18 12:21:46Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 343c8edf-3e1c-4168-b58a-0b345d73108c
+ActivityId: fcbe07f9-cc10-482a-a75b-eafd3f1bdd03
+X-TFS-Session: cd89a586-31a7-4c56-9036-a2ed5cccdaf1
+X-VSS-E2EID: e2a24424-2839-42c7-9e20-638af4aea715
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 0F935F2A35524EEEA5CFAC9A2D334378 Ref B: BOM02EDGE0607 Ref C: 2022-05-18T12:21:45Z
+Date: Wed, 18 May 2022 12:21:45 GMT
+
+[2022-05-18 12:21:46Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-18 12:21:46Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-18 12:21:47Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-18 12:21:47Z INFO CommandSettings] Arg 'work': ''
+[2022-05-18 12:21:47Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-05-18 12:21:47Z INFO PromptManager] ReadValue
+[2022-05-18 12:21:47Z INFO Terminal] WRITE: Enter name of work folder: 
+[2022-05-18 12:21:47Z INFO Terminal] WRITE: [press Enter for _work] 
+[2022-05-18 12:21:47Z INFO Terminal] READ LINE
+[2022-05-18 12:21:48Z INFO Terminal] Read value: ''
+[2022-05-18 12:21:48Z INFO PromptManager] Falling back to the default: '_work'
+[2022-05-18 12:21:48Z INFO ConfigurationStore] Saving runner settings.
+[2022-05-18 12:21:48Z INFO ConfigurationStore] Settings Saved.
+[2022-05-18 12:21:48Z INFO Terminal] WRITE LINE: 
+[2022-05-18 12:21:48Z INFO Terminal] WRITE LINE: 
+[2022-05-18 12:21:48Z INFO OsxServiceControlManager] Service name 'actions.runner.Aswin-Coddletech-GH-React-Action.selr-hosted-runner' display name 'GitHub Actions Runner (Aswin-Coddletech-GH-React-Action.selr-hosted-runner)' will be used for service configuration.
+[2022-05-18 12:21:48Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:48Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:48Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:48Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:21:48Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:48Z INFO UnixUtil] Which: 'chmod'
+[2022-05-18 12:21:48Z INFO UnixUtil] Location: '/bin/chmod'
+[2022-05-18 12:21:48Z INFO UnixUtil] Running /bin/chmod 755 "/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/svc.sh"
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   Arguments: '755 "/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/svc.sh"'
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper] Process started with process id 6954, waiting for process exit.
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-18 12:21:48Z INFO ProcessInvokerWrapper] Finished process 6954 with exit code 0, and elapsed time 00:00:00.0096267.
+[2022-05-18 12:21:48Z INFO Listener] Runner execution has finished with return code 0
