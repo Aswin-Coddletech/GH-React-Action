@@ -202,3 +202,34 @@ Date: Wed, 18 May 2022 11:43:35 GMT
 [2022-05-18 11:43:35Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams
 [2022-05-18 11:43:36Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
 [2022-05-18 11:55:21Z INFO MessageListener] No message retrieved from session '7c68c0d9-c590-451a-bbf6-074c8296a62b' within last 30 minutes.
+[2022-05-18 12:10:24Z ERR  MessageListener] Catch exception during get next message.
+[2022-05-18 12:10:24Z ERR  MessageListener] System.Security.Cryptography.CryptographicException: RSA key file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams was not found
+   at GitHub.Runner.Listener.Configuration.RSAFileKeyManager.GetKey()
+   at GitHub.Runner.Listener.MessageListener.GetMessageDecryptor(Aes aes, TaskAgentMessage message)
+   at GitHub.Runner.Listener.MessageListener.DecryptMessage(TaskAgentMessage message)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2022-05-18 12:10:24Z INFO MessageListener] Retriable exception: RSA key file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams was not found
+[2022-05-18 12:10:24Z ERR  Terminal] WRITE ERROR: 2022-05-18 12:10:24Z: Runner connect error: RSA key file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams was not found. Retrying until reconnected.
+[2022-05-18 12:10:24Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2022-05-18 12:10:24Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-18 12:10:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-18 12:10:25Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-18 12:10:25Z INFO MessageListener] Sleeping for 25.893 seconds before retrying.
+[2022-05-18 12:10:51Z INFO MessageListener] Message '3' received from session '7c68c0d9-c590-451a-bbf6-074c8296a62b'.
+[2022-05-18 12:10:51Z INFO Runner] Received job message of length 28780 from service, with hash '9ce54b897159c98580ed9dac1b5f9f80b45226ab6a83821a6fa3ab8f85590b74'
+[2022-05-18 12:10:52Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2022-05-18 12:10:52Z INFO JobDispatcher] Ensure WorkerDispather for job ca395085-040a-526b-2ce8-bdc85f692774 run to finish, cancel any running job.
+[2022-05-18 12:10:52Z INFO JobDispatcher] Job request ca395085-040a-526b-2ce8-bdc85f692774 processed succeed.
+[2022-05-18 12:10:53Z ERR  Terminal] WRITE ERROR: An error occurred: Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+[2022-05-18 12:10:53Z ERR  Listener] Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)
