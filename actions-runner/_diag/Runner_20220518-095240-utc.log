@@ -127,3 +127,78 @@ Date: Wed, 18 May 2022 09:52:42 GMT
 [2022-05-18 09:52:45Z INFO Terminal] WRITE LINE: Current runner version: '2.291.1'
 [2022-05-18 09:52:45Z INFO Terminal] WRITE LINE: 2022-05-18 09:52:45Z: Listening for Jobs
 [2022-05-18 09:52:45Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2022-05-18 09:54:30Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2022-05-18 09:54:30Z INFO MessageListener] Message '2' received from session '7c68c0d9-c590-451a-bbf6-074c8296a62b'.
+[2022-05-18 09:54:30Z INFO Runner] Received job message of length 21557 from service, with hash 'a78a6caf71e047c33b1c59bd425bbfdf1edd1753caf4b6ea02f55f2a118af18e'
+[2022-05-18 09:54:30Z INFO JobDispatcher] Job request 22 for plan 6a3e8d5c-e7d8-46a7-af72-ad3eb857d412 job ca395085-040a-526b-2ce8-bdc85f692774 received.
+[2022-05-18 09:54:30Z INFO JobDispatcher] Pull OrchestrationId 6a3e8d5c-e7d8-46a7-af72-ad3eb857d412.build.__default from JWT claims
+[2022-05-18 09:54:30Z INFO Terminal] WRITE LINE: 2022-05-18 09:54:30Z: Running job: build
+[2022-05-18 09:54:30Z INFO JobDispatcher] Start renew job request 22 for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-18 09:54:31Z INFO JobDispatcher] Successfully renew job request 22, job is valid till 18/05/2022 10:04:31
+[2022-05-18 09:54:31Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   File name: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin/Runner.Worker'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 109 112'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/bin'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2022-05-18 09:54:31Z INFO ProcessInvokerWrapper] Process started with process id 2245, waiting for process exit.
+[2022-05-18 09:54:31Z INFO JobDispatcher] Send job request message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-18 09:54:31Z INFO ProcessChannel] Sending message of length 21557, with hash 'a78a6caf71e047c33b1c59bd425bbfdf1edd1753caf4b6ea02f55f2a118af18e'
+[2022-05-18 09:54:31Z INFO JobNotification] Entering JobStarted Notification
+[2022-05-18 09:54:31Z INFO JobNotification] Entering StartMonitor
+[2022-05-18 09:55:31Z INFO JobDispatcher] Successfully renew job request 22, job is valid till 18/05/2022 10:05:31
+[2022-05-18 09:56:32Z INFO JobDispatcher] Successfully renew job request 22, job is valid till 18/05/2022 10:06:32
+[2022-05-18 09:56:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-18 09:56:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-18 09:56:46Z INFO ProcessInvokerWrapper] Finished process 2245 with exit code 102, and elapsed time 00:02:15.3743217.
+[2022-05-18 09:56:46Z INFO JobDispatcher] Worker finished for job ca395085-040a-526b-2ce8-bdc85f692774. Code: 102
+[2022-05-18 09:56:46Z INFO JobDispatcher] finish job request for job ca395085-040a-526b-2ce8-bdc85f692774 with result: Failed
+[2022-05-18 09:56:46Z INFO Terminal] WRITE LINE: 2022-05-18 09:56:46Z: Job build completed with result: Failed
+[2022-05-18 09:56:46Z INFO JobDispatcher] Stop renew job request for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-18 09:56:46Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 22.
+[2022-05-18 09:56:46Z INFO JobNotification] Entering JobCompleted Notification
+[2022-05-18 09:56:46Z INFO JobNotification] Entering EndMonitor
+[2022-05-18 10:24:43Z INFO MessageListener] No message retrieved from session '7c68c0d9-c590-451a-bbf6-074c8296a62b' within last 30 minutes.
+[2022-05-18 10:48:12Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 4b5d3dcc-9c4a-4d3f-b3fb-b1cadfb1de0e
+ActivityId: f6f7e300-522f-4037-9c4e-659576fa5482
+X-TFS-Session: 062186d2-54cf-48b0-9535-47a7355ffc2f
+X-VSS-E2EID: 6edba3a1-7b46-4727-b1fe-6947bc66a11e
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 2C83590D677F465784ECFCBB12A64058 Ref B: BOM02EDGE0613 Ref C: 2022-05-18T10:48:12Z
+Date: Wed, 18 May 2022 10:48:12 GMT
+
+[2022-05-18 10:48:12Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2022-05-18 10:48:12Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-18 10:54:56Z INFO MessageListener] No message retrieved from session '7c68c0d9-c590-451a-bbf6-074c8296a62b' within last 30 minutes.
+[2022-05-18 11:25:08Z INFO MessageListener] No message retrieved from session '7c68c0d9-c590-451a-bbf6-074c8296a62b' within last 30 minutes.
+[2022-05-18 11:43:35Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 270144e1-83ab-4638-bb68-f64a5045014c
+ActivityId: 63d9454b-3363-4dce-844e-d371c37d2e5f
+X-TFS-Session: 062186d2-54cf-48b0-9535-47a7355ffc2f
+X-VSS-E2EID: cdbf565a-bcc9-4725-b2b9-11eb15d93eff
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 9D53442DF23A40CCA94BF53BDC9D0865 Ref B: BOM02EDGE0613 Ref C: 2022-05-18T11:43:35Z
+Date: Wed, 18 May 2022 11:43:35 GMT
+
+[2022-05-18 11:43:35Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2022-05-18 11:43:36Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-18 11:55:21Z INFO MessageListener] No message retrieved from session '7c68c0d9-c590-451a-bbf6-074c8296a62b' within last 30 minutes.
