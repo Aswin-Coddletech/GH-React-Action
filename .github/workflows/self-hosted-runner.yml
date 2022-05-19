@@ -1,5 +1,5 @@
 name: Self-hosted-runner
-on: 
+on: [pull]
   # push:
   #   branches: [master]
   

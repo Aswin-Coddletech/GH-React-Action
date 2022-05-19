@@ -1039,3 +1039,21 @@ Date: Thu, 19 May 2022 08:53:37 GMT
 [2022-05-19 09:00:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
 [2022-05-19 09:00:43Z INFO MessageListener] Sleeping for 20.34 seconds before retrying.
 [2022-05-19 09:01:54Z INFO Terminal] WRITE LINE: 2022-05-19 09:01:54Z: Runner reconnected.
+[2022-05-19 09:23:44Z INFO MessageListener] No message retrieved from session '1c9152da-120c-42d7-b90a-0829230097ec' within last 30 minutes.
+[2022-05-19 09:48:56Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 343c8edf-3e1c-4168-b58a-0b345d73108c
+ActivityId: fe4d8afb-cc10-482a-a75b-eafd3f1bdd03
+X-TFS-Session: b557ffb7-f381-4920-bdad-48bf6bedb979
+X-VSS-E2EID: ee73398e-26af-4c91-9f70-d9dfc6848e07
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: E677F36003CD44C789ABB88EDEEC2B60 Ref B: MAA01EDGE0405 Ref C: 2022-05-19T09:48:56Z
+Date: Thu, 19 May 2022 09:48:55 GMT
+
+[2022-05-19 09:48:56Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-19 09:48:57Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
