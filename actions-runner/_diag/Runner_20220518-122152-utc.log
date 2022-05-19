@@ -420,3 +420,491 @@ Date: Thu, 19 May 2022 05:13:04 GMT
 [2022-05-19 05:40:52Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 28.
 [2022-05-19 05:40:52Z INFO JobNotification] Entering JobCompleted Notification
 [2022-05-19 05:40:52Z INFO JobNotification] Entering EndMonitor
+[2022-05-19 05:51:03Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-19 05:51:03Z INFO MessageListener] Message '4' received from session '1c9152da-120c-42d7-b90a-0829230097ec'.
+[2022-05-19 05:51:03Z INFO Runner] Received job message of length 22534 from service, with hash '7a4a59e69dc8d69fc12cb71cfc338a40982bcb11a8c445155577f59f35049c09'
+[2022-05-19 05:51:03Z INFO JobDispatcher] Job request 29 for plan 42f8088b-eb8d-4038-ad8e-23194259bec5 job ca395085-040a-526b-2ce8-bdc85f692774 received.
+[2022-05-19 05:51:03Z INFO JobDispatcher] Pull OrchestrationId 42f8088b-eb8d-4038-ad8e-23194259bec5.build.__default from JWT claims
+[2022-05-19 05:51:03Z INFO JobDispatcher] Job request ca395085-040a-526b-2ce8-bdc85f692774 processed succeed.
+[2022-05-19 05:51:03Z INFO Terminal] WRITE LINE: 2022-05-19 05:51:03Z: Running job: build
+[2022-05-19 05:51:03Z INFO JobDispatcher] Start renew job request 29 for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-19 05:51:04Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:01:04
+[2022-05-19 05:51:04Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   File name: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin/Runner.Worker'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 118 121'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2022-05-19 05:51:04Z INFO ProcessInvokerWrapper] Process started with process id 15024, waiting for process exit.
+[2022-05-19 05:51:04Z INFO JobDispatcher] Send job request message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-19 05:51:04Z INFO ProcessChannel] Sending message of length 22534, with hash '7a4a59e69dc8d69fc12cb71cfc338a40982bcb11a8c445155577f59f35049c09'
+[2022-05-19 05:51:04Z INFO JobNotification] Entering JobStarted Notification
+[2022-05-19 05:51:04Z INFO JobNotification] Entering StartMonitor
+[2022-05-19 05:52:04Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:02:04
+[2022-05-19 05:53:04Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:03:04
+[2022-05-19 05:54:05Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:04:05
+[2022-05-19 05:55:05Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:05:05
+[2022-05-19 05:56:06Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:06:06
+[2022-05-19 05:57:06Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:07:06
+[2022-05-19 05:58:07Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:08:07
+[2022-05-19 05:59:07Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:09:07
+[2022-05-19 06:00:07Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:10:07
+[2022-05-19 06:01:08Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:11:08
+[2022-05-19 06:02:08Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:12:08
+[2022-05-19 06:03:08Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:13:08
+[2022-05-19 06:04:09Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:14:09
+[2022-05-19 06:05:10Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:15:10
+[2022-05-19 06:06:10Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:16:10
+[2022-05-19 06:07:11Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:17:11
+[2022-05-19 06:08:11Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 270144e1-83ab-4638-bb68-f64a5045014c
+ActivityId: 60cd128b-3363-4dce-844e-d371c37d2e5f
+X-TFS-Session: b557ffb7-f381-4920-bdad-48bf6bedb979
+X-VSS-E2EID: 7cca8c17-e099-49ac-abcb-b30f845fa31f
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: DBFFB93417194F0EB02B30E33A95ED4B Ref B: BOM02EDGE0621 Ref C: 2022-05-19T06:08:11Z
+Date: Thu, 19 May 2022 06:08:11 GMT
+
+[2022-05-19 06:08:11Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-19 06:08:12Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-19 06:08:12Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:18:12
+[2022-05-19 06:09:13Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:19:12
+[2022-05-19 06:10:13Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:20:13
+[2022-05-19 06:11:14Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:21:14
+[2022-05-19 06:12:14Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:22:14
+[2022-05-19 06:13:14Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:23:14
+[2022-05-19 06:14:15Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:24:14
+[2022-05-19 06:15:15Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:25:15
+[2022-05-19 06:16:16Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:26:15
+[2022-05-19 06:17:16Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:27:16
+[2022-05-19 06:18:17Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:28:17
+[2022-05-19 06:19:17Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:29:17
+[2022-05-19 06:20:17Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:30:17
+[2022-05-19 06:21:16Z INFO MessageListener] No message retrieved from session '1c9152da-120c-42d7-b90a-0829230097ec' within last 30 minutes.
+[2022-05-19 06:21:17Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:31:17
+[2022-05-19 06:22:18Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:32:18
+[2022-05-19 06:23:18Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:33:18
+[2022-05-19 06:24:18Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:34:18
+[2022-05-19 06:25:19Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:35:19
+[2022-05-19 06:26:19Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:36:19
+[2022-05-19 06:27:19Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:37:19
+[2022-05-19 06:28:20Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:38:20
+[2022-05-19 06:29:21Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:39:21
+[2022-05-19 06:30:21Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:40:21
+[2022-05-19 06:31:22Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:41:21
+[2022-05-19 06:32:22Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:42:22
+[2022-05-19 06:33:22Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:43:22
+[2022-05-19 06:34:23Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:44:23
+[2022-05-19 06:35:23Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:45:23
+[2022-05-19 06:36:24Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:46:23
+[2022-05-19 06:37:24Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:47:24
+[2022-05-19 06:38:24Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:48:24
+[2022-05-19 06:39:24Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:49:24
+[2022-05-19 06:40:25Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:50:24
+[2022-05-19 06:41:25Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:51:25
+[2022-05-19 06:42:26Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:52:26
+[2022-05-19 06:43:29Z ERR  GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i/_apis/distributedtask/pools/1/jobrequests/29?lockToken=00000000-0000-0000-0000-000000000000 failed. System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: The response ended prematurely.
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2022-05-19 06:43:29Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 29.
+[2022-05-19 06:43:29Z ERR  JobDispatcher] System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: The response ended prematurely.
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2022-05-19 06:43:29Z ERR  JobDispatcher] #####################################################
+[2022-05-19 06:43:29Z ERR  JobDispatcher] System.IO.IOException: The response ended prematurely.
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2022-05-19 06:43:29Z INFO JobDispatcher] Retrying lock renewal for jobrequest 29. Job is valid until 19/05/2022 06:52:26.
+[2022-05-19 06:43:29Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2022-05-19 06:43:29Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2022-05-19 06:43:29Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-19 06:43:30Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-19 06:43:37Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:53:36
+[2022-05-19 06:43:37Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2022-05-19 06:44:37Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:54:37
+[2022-05-19 06:45:37Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:55:37
+[2022-05-19 06:46:37Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:56:37
+[2022-05-19 06:47:38Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:57:38
+[2022-05-19 06:48:38Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:58:38
+[2022-05-19 06:49:39Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 06:59:39
+[2022-05-19 06:50:40Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:00:40
+[2022-05-19 06:51:27Z INFO MessageListener] No message retrieved from session '1c9152da-120c-42d7-b90a-0829230097ec' within last 30 minutes.
+[2022-05-19 06:51:40Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:01:40
+[2022-05-19 06:52:40Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:02:40
+[2022-05-19 06:53:41Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:03:41
+[2022-05-19 06:54:41Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:04:41
+[2022-05-19 06:55:42Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:05:42
+[2022-05-19 06:56:42Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:06:42
+[2022-05-19 06:57:43Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:07:43
+[2022-05-19 06:58:43Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:08:43
+[2022-05-19 06:59:43Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:09:43
+[2022-05-19 07:00:44Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:10:44
+[2022-05-19 07:01:45Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:11:44
+[2022-05-19 07:02:45Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:12:45
+[2022-05-19 07:03:12Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 270144e1-83ab-4638-bb68-f64a5045014c
+ActivityId: 60fce1fb-3363-4dce-844e-d371c37d2e5f
+X-TFS-Session: b557ffb7-f381-4920-bdad-48bf6bedb979
+X-VSS-E2EID: 35e02822-2651-4458-a916-753ebf59e755
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 28FA9E8A58294AE89A7E1EA353D63863 Ref B: BOM02EDGE0506 Ref C: 2022-05-19T07:03:12Z
+Date: Thu, 19 May 2022 07:03:12 GMT
+
+[2022-05-19 07:03:12Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-19 07:03:13Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-19 07:03:45Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:13:45
+[2022-05-19 07:04:46Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:14:46
+[2022-05-19 07:05:46Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:15:46
+[2022-05-19 07:06:47Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:16:46
+[2022-05-19 07:07:47Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:17:47
+[2022-05-19 07:08:48Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:18:48
+[2022-05-19 07:09:48Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:19:48
+[2022-05-19 07:10:48Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:20:48
+[2022-05-19 07:11:49Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:21:48
+[2022-05-19 07:12:49Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:22:49
+[2022-05-19 07:13:49Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:23:49
+[2022-05-19 07:14:50Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:24:50
+[2022-05-19 07:15:50Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:25:50
+[2022-05-19 07:16:51Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:26:51
+[2022-05-19 07:17:51Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:27:51
+[2022-05-19 07:18:52Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:28:52
+[2022-05-19 07:19:52Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:29:52
+[2022-05-19 07:20:52Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:30:52
+[2022-05-19 07:21:40Z INFO MessageListener] No message retrieved from session '1c9152da-120c-42d7-b90a-0829230097ec' within last 30 minutes.
+[2022-05-19 07:21:53Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:31:53
+[2022-05-19 07:22:53Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:32:53
+[2022-05-19 07:23:54Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:33:54
+[2022-05-19 07:24:54Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:34:54
+[2022-05-19 07:25:54Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:35:54
+[2022-05-19 07:26:55Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:36:54
+[2022-05-19 07:27:56Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:37:55
+[2022-05-19 07:28:56Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:38:56
+[2022-05-19 07:29:56Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:39:56
+[2022-05-19 07:30:56Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:40:56
+[2022-05-19 07:31:57Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:41:57
+[2022-05-19 07:32:57Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:42:57
+[2022-05-19 07:34:25Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i/_apis/distributedtask/pools/1/messages?sessionId=1c9152da-120c-42d7-b90a-0829230097ec&lastMessageId=4 timed out after 60 seconds.
+[2022-05-19 07:34:25Z ERR  MessageListener] Catch exception during get next message.
+[2022-05-19 07:34:25Z ERR  MessageListener] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2022-05-19 07:34:25Z ERR  MessageListener] #####################################################
+[2022-05-19 07:34:25Z ERR  MessageListener] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2022-05-19 07:34:25Z ERR  MessageListener] #####################################################
+[2022-05-19 07:34:25Z ERR  MessageListener] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2022-05-19 07:34:25Z ERR  MessageListener] #####################################################
+[2022-05-19 07:34:25Z ERR  MessageListener] System.Net.Sockets.SocketException (89): Operation canceled
+[2022-05-19 07:34:25Z INFO MessageListener] Retriable exception: The HTTP request timed out after 00:01:00.
+[2022-05-19 07:34:25Z ERR  Terminal] WRITE ERROR: 2022-05-19 07:34:25Z: Runner connect error: The HTTP request timed out after 00:01:00.. Retrying until reconnected.
+[2022-05-19 07:34:25Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2022-05-19 07:34:25Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-19 07:34:25Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-19 07:34:27Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-19 07:34:27Z INFO MessageListener] Sleeping for 18.857 seconds before retrying.
+[2022-05-19 07:34:57Z WARN GitHubActionsService] PATCH request to https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i/_apis/distributedtask/pools/1/jobrequests/29?lockToken=00000000-0000-0000-0000-000000000000 timed out after 60 seconds.
+[2022-05-19 07:34:57Z ERR  JobDispatcher] Catch exception during renew runner jobrequest 29.
+[2022-05-19 07:34:57Z ERR  JobDispatcher] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|44_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.DistributedTask.WebApi.TaskAgentHttpClient.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken, Func`3 processResponse)
+   at GitHub.Runner.Listener.JobDispatcher.RenewJobRequestAsync(Int32 poolId, Int64 requestId, Guid lockToken, String orchestrationId, TaskCompletionSource`1 firstJobRequestRenewed, CancellationToken token)
+[2022-05-19 07:34:57Z ERR  JobDispatcher] #####################################################
+[2022-05-19 07:34:57Z ERR  JobDispatcher] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|44_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2022-05-19 07:34:57Z ERR  JobDispatcher] #####################################################
+[2022-05-19 07:34:57Z ERR  JobDispatcher] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|44_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2022-05-19 07:34:57Z ERR  JobDispatcher] #####################################################
+[2022-05-19 07:34:57Z ERR  JobDispatcher] System.Net.Sockets.SocketException (89): Operation canceled
+[2022-05-19 07:34:57Z INFO JobDispatcher] Retrying lock renewal for jobrequest 29. Job is valid until 19/05/2022 07:42:57.
+[2022-05-19 07:34:57Z INFO RunnerServer] Refresh JobRequest VssConnection to get on a different AFD node.
+[2022-05-19 07:34:57Z INFO RunnerServer] Establish connection with 30 seconds timeout.
+[2022-05-19 07:34:57Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-19 07:34:58Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-19 07:35:06Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:45:05
+[2022-05-19 07:35:06Z INFO RunnerServer] Set JobRequest VssConnection's timeout to 60 seconds.
+[2022-05-19 07:35:38Z INFO Terminal] WRITE LINE: 2022-05-19 07:35:38Z: Runner reconnected.
+[2022-05-19 07:36:06Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:46:06
+[2022-05-19 07:37:06Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:47:06
+[2022-05-19 07:38:07Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:48:06
+[2022-05-19 07:39:07Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:49:07
+[2022-05-19 07:40:12Z WARN GitHubActionsService] Attempt 1 of PATCH request to https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i/_apis/distributedtask/pools/1/jobrequests/29?lockToken=00000000-0000-0000-0000-000000000000 failed (Socket Error: ConnectionReset). The operation will be retried in 11.005 seconds.
+[2022-05-19 07:40:28Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:50:27
+[2022-05-19 07:41:28Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:51:28
+[2022-05-19 07:42:28Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:52:28
+[2022-05-19 07:43:29Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:53:29
+[2022-05-19 07:44:29Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:54:29
+[2022-05-19 07:45:29Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:55:29
+[2022-05-19 07:46:29Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:56:29
+[2022-05-19 07:47:30Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:57:30
+[2022-05-19 07:48:30Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:58:30
+[2022-05-19 07:49:30Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 07:59:30
+[2022-05-19 07:50:31Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:00:30
+[2022-05-19 07:51:32Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:01:31
+[2022-05-19 07:52:27Z INFO MessageListener] No message retrieved from session '1c9152da-120c-42d7-b90a-0829230097ec' within last 30 minutes.
+[2022-05-19 07:52:32Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:02:32
+[2022-05-19 07:53:32Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:03:32
+[2022-05-19 07:54:32Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:04:32
+[2022-05-19 07:55:33Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:05:33
+[2022-05-19 07:56:33Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:06:33
+[2022-05-19 07:57:33Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:07:33
+[2022-05-19 07:58:20Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 71c26beb-b5f6-4dd9-8b3e-fc929bdc73d4
+ActivityId: e31c8550-dbe6-408d-b535-ebc6acd42b03
+X-TFS-Session: b557ffb7-f381-4920-bdad-48bf6bedb979
+X-VSS-E2EID: 54815683-af14-4ba8-a7a6-086e263b32d2
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: C65A332A73454C569697A3780BD90CF1 Ref B: MAA01EDGE0611 Ref C: 2022-05-19T07:58:20Z
+Date: Thu, 19 May 2022 07:58:19 GMT
+
+[2022-05-19 07:58:20Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-19 07:58:22Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-19 07:58:34Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:08:34
+[2022-05-19 07:59:35Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:09:34
+[2022-05-19 08:00:35Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:10:35
+[2022-05-19 08:01:35Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:11:35
+[2022-05-19 08:02:36Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:12:35
+[2022-05-19 08:03:37Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:13:36
+[2022-05-19 08:04:37Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:14:37
+[2022-05-19 08:05:38Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:15:38
+[2022-05-19 08:06:39Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:16:38
+[2022-05-19 08:07:39Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:17:39
+[2022-05-19 08:08:39Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:18:39
+[2022-05-19 08:09:40Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:19:39
+[2022-05-19 08:10:40Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:20:40
+[2022-05-19 08:11:40Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:21:40
+[2022-05-19 08:12:41Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:22:41
+[2022-05-19 08:13:42Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:23:42
+[2022-05-19 08:14:42Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:24:42
+[2022-05-19 08:15:43Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:25:42
+[2022-05-19 08:16:43Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:26:43
+[2022-05-19 08:17:43Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:27:43
+[2022-05-19 08:18:44Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:28:44
+[2022-05-19 08:19:45Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:29:45
+[2022-05-19 08:20:45Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:30:45
+[2022-05-19 08:21:45Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:31:45
+[2022-05-19 08:22:43Z INFO MessageListener] No message retrieved from session '1c9152da-120c-42d7-b90a-0829230097ec' within last 30 minutes.
+[2022-05-19 08:22:46Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:32:46
+[2022-05-19 08:23:46Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:33:46
+[2022-05-19 08:24:47Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:34:47
+[2022-05-19 08:25:48Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:35:47
+[2022-05-19 08:26:48Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:36:48
+[2022-05-19 08:27:48Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:37:48
+[2022-05-19 08:28:49Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:38:48
+[2022-05-19 08:29:49Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:39:49
+[2022-05-19 08:30:49Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:40:49
+[2022-05-19 08:31:49Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:41:49
+[2022-05-19 08:32:50Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:42:50
+[2022-05-19 08:33:51Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:43:51
+[2022-05-19 08:34:51Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:44:51
+[2022-05-19 08:35:53Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:45:53
+[2022-05-19 08:36:53Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:46:53
+[2022-05-19 08:37:54Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:47:54
+[2022-05-19 08:38:55Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:48:54
+[2022-05-19 08:39:56Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:49:55
+[2022-05-19 08:40:58Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:50:57
+[2022-05-19 08:45:50Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i/_apis/distributedtask/pools/1/messages?sessionId=1c9152da-120c-42d7-b90a-0829230097ec&lastMessageId=4 timed out after 60 seconds.
+[2022-05-19 08:45:50Z ERR  MessageListener] Catch exception during get next message.
+[2022-05-19 08:45:50Z ERR  MessageListener] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2022-05-19 08:45:50Z ERR  MessageListener] #####################################################
+[2022-05-19 08:45:50Z ERR  MessageListener] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2022-05-19 08:45:50Z ERR  MessageListener] #####################################################
+[2022-05-19 08:45:50Z ERR  MessageListener] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2022-05-19 08:45:50Z ERR  MessageListener] #####################################################
+[2022-05-19 08:45:50Z ERR  MessageListener] System.Net.Sockets.SocketException (89): Operation canceled
+[2022-05-19 08:45:50Z INFO MessageListener] Retriable exception: The HTTP request timed out after 00:01:00.
+[2022-05-19 08:45:50Z ERR  Terminal] WRITE ERROR: 2022-05-19 08:45:50Z: Runner connect error: The HTTP request timed out after 00:01:00.. Retrying until reconnected.
+[2022-05-19 08:45:50Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2022-05-19 08:45:50Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-19 08:45:50Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-19 08:45:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-19 08:45:51Z INFO MessageListener] Sleeping for 16.505 seconds before retrying.
+[2022-05-19 08:45:53Z WARN GitHubActionsService] Attempt 1 of PATCH request to https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i/_apis/distributedtask/pools/1/jobrequests/29?lockToken=00000000-0000-0000-0000-000000000000 failed (Socket Error: TimedOut). The operation will be retried in 10.896 seconds.
+[2022-05-19 08:46:05Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:56:05
+[2022-05-19 08:46:58Z INFO Terminal] WRITE LINE: 2022-05-19 08:46:58Z: Runner reconnected.
+[2022-05-19 08:47:05Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:57:05
+[2022-05-19 08:48:06Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:58:06
+[2022-05-19 08:49:06Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 08:59:06
+[2022-05-19 08:50:06Z INFO JobDispatcher] Successfully renew job request 29, job is valid till 19/05/2022 09:00:06
+[2022-05-19 08:50:14Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-19 08:50:14Z INFO MessageListener] Message '5' received from session '1c9152da-120c-42d7-b90a-0829230097ec'.
+[2022-05-19 08:50:14Z INFO JobDispatcher] Job cancellation request ca395085-040a-526b-2ce8-bdc85f692774 received, cancellation timeout 5 minutes.
+[2022-05-19 08:50:14Z INFO JobDispatcher] Send job cancellation message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-19 08:50:14Z INFO ProcessChannel] Sending message of length 0, with hash 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+[2022-05-19 08:50:20Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 08:50:20Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 08:50:20Z INFO ProcessInvokerWrapper] Finished process 15024 with exit code 103, and elapsed time 02:55:47.4974716.
+[2022-05-19 08:50:20Z INFO JobDispatcher] finish job request for job ca395085-040a-526b-2ce8-bdc85f692774 with result: Canceled
+[2022-05-19 08:50:20Z INFO Terminal] WRITE LINE: 2022-05-19 08:50:20Z: Job build completed with result: Canceled
+[2022-05-19 08:50:20Z INFO JobDispatcher] Stop renew job request for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-19 08:50:20Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 29.
+[2022-05-19 08:50:20Z INFO JobNotification] Entering JobCompleted Notification
+[2022-05-19 08:50:20Z INFO JobNotification] Entering EndMonitor
