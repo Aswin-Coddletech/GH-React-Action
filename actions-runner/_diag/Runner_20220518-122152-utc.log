@@ -127,3 +127,215 @@ Date: Wed, 18 May 2022 12:21:54 GMT
 [2022-05-18 12:21:56Z INFO Terminal] WRITE LINE: Current runner version: '2.291.1'
 [2022-05-18 12:21:56Z INFO Terminal] WRITE LINE: 2022-05-18 12:21:56Z: Listening for Jobs
 [2022-05-18 12:21:56Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2022-05-18 12:23:43Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-18 12:23:43Z INFO MessageListener] Message '1' received from session '1c9152da-120c-42d7-b90a-0829230097ec'.
+[2022-05-18 12:23:43Z INFO Runner] Received job message of length 21577 from service, with hash 'd5cbb0891bde92fb8faa12dafd9a9784c28da70fbe1769d0bd2a73e12ee1065e'
+[2022-05-18 12:23:43Z INFO JobDispatcher] Job request 26 for plan 1cb61c29-1488-4c3e-9449-b9c68ac8a017 job ca395085-040a-526b-2ce8-bdc85f692774 received.
+[2022-05-18 12:23:44Z INFO JobDispatcher] Pull OrchestrationId 1cb61c29-1488-4c3e-9449-b9c68ac8a017.build.__default from JWT claims
+[2022-05-18 12:23:44Z INFO Terminal] WRITE LINE: 2022-05-18 12:23:44Z: Running job: build
+[2022-05-18 12:23:44Z INFO JobDispatcher] Start renew job request 26 for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-18 12:23:44Z INFO JobDispatcher] Successfully renew job request 26, job is valid till 18/05/2022 12:33:44
+[2022-05-18 12:23:44Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   File name: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin/Runner.Worker'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 112 115'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2022-05-18 12:23:44Z INFO ProcessInvokerWrapper] Process started with process id 7144, waiting for process exit.
+[2022-05-18 12:23:44Z INFO JobDispatcher] Send job request message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-18 12:23:44Z INFO ProcessChannel] Sending message of length 21577, with hash 'd5cbb0891bde92fb8faa12dafd9a9784c28da70fbe1769d0bd2a73e12ee1065e'
+[2022-05-18 12:23:44Z INFO JobNotification] Entering JobStarted Notification
+[2022-05-18 12:23:44Z INFO JobNotification] Entering StartMonitor
+[2022-05-18 12:24:45Z INFO JobDispatcher] Successfully renew job request 26, job is valid till 18/05/2022 12:34:45
+[2022-05-18 12:25:45Z INFO JobDispatcher] Successfully renew job request 26, job is valid till 18/05/2022 12:35:45
+[2022-05-18 12:26:46Z INFO JobDispatcher] Successfully renew job request 26, job is valid till 18/05/2022 12:36:46
+[2022-05-18 12:27:46Z INFO JobDispatcher] Successfully renew job request 26, job is valid till 18/05/2022 12:37:46
+[2022-05-18 12:28:47Z INFO JobDispatcher] Successfully renew job request 26, job is valid till 18/05/2022 12:38:47
+[2022-05-18 12:29:48Z INFO JobDispatcher] Successfully renew job request 26, job is valid till 18/05/2022 12:39:48
+[2022-05-18 12:30:48Z INFO JobDispatcher] Successfully renew job request 26, job is valid till 18/05/2022 12:40:48
+[2022-05-18 12:31:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-18 12:31:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-18 12:31:09Z INFO ProcessInvokerWrapper] Finished process 7144 with exit code 100, and elapsed time 00:07:24.8879331.
+[2022-05-18 12:31:09Z INFO JobDispatcher] Worker finished for job ca395085-040a-526b-2ce8-bdc85f692774. Code: 100
+[2022-05-18 12:31:09Z INFO JobDispatcher] finish job request for job ca395085-040a-526b-2ce8-bdc85f692774 with result: Succeeded
+[2022-05-18 12:31:09Z INFO Terminal] WRITE LINE: 2022-05-18 12:31:09Z: Job build completed with result: Succeeded
+[2022-05-18 12:31:09Z INFO JobDispatcher] Stop renew job request for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-18 12:31:09Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 26.
+[2022-05-18 12:31:09Z INFO JobNotification] Entering JobCompleted Notification
+[2022-05-18 12:31:09Z INFO JobNotification] Entering EndMonitor
+[2022-05-18 12:53:57Z INFO MessageListener] No message retrieved from session '1c9152da-120c-42d7-b90a-0829230097ec' within last 30 minutes.
+[2022-05-18 13:17:28Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 343c8edf-3e1c-4168-b58a-0b345d73108c
+ActivityId: fcb1c5e8-cc10-482a-a75b-eafd3f1bdd03
+X-TFS-Session: b557ffb7-f381-4920-bdad-48bf6bedb979
+X-VSS-E2EID: e6bf21e1-4273-40a0-8933-855a9718b3d9
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 7C32E998DBDC47029D142CECB93EA706 Ref B: BOM02EDGE0409 Ref C: 2022-05-18T13:17:28Z
+Date: Wed, 18 May 2022 13:17:27 GMT
+
+[2022-05-18 13:17:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-18 13:17:29Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-18 13:24:12Z INFO MessageListener] No message retrieved from session '1c9152da-120c-42d7-b90a-0829230097ec' within last 30 minutes.
+[2022-05-19 04:36:42Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i/_apis/distributedtask/pools/1/messages?sessionId=1c9152da-120c-42d7-b90a-0829230097ec&lastMessageId=1 timed out after 60 seconds.
+[2022-05-19 04:36:42Z ERR  MessageListener] Catch exception during get next message.
+[2022-05-19 04:36:44Z ERR  MessageListener] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2022-05-19 04:36:44Z ERR  MessageListener] #####################################################
+[2022-05-19 04:36:44Z ERR  MessageListener] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2022-05-19 04:36:44Z ERR  MessageListener] #####################################################
+[2022-05-19 04:36:44Z ERR  MessageListener] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (89): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2022-05-19 04:36:44Z ERR  MessageListener] #####################################################
+[2022-05-19 04:36:44Z ERR  MessageListener] System.Net.Sockets.SocketException (89): Operation canceled
+[2022-05-19 04:36:44Z INFO MessageListener] Retriable exception: The HTTP request timed out after 00:01:00.
+[2022-05-19 04:36:44Z ERR  Terminal] WRITE ERROR: 2022-05-19 04:36:44Z: Runner connect error: The HTTP request timed out after 00:01:00.. Retrying until reconnected.
+[2022-05-19 04:36:44Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2022-05-19 04:36:44Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-19 04:36:44Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-19 04:36:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-19 04:36:45Z INFO MessageListener] Sleeping for 25.893 seconds before retrying.
+[2022-05-19 05:12:53Z WARN GitHubActionsService] Attempt 1 of GET request to https://pipelines.actions.githubusercontent.com/LftkO8mKPpgyCoCC7Fg8RPtNHIE1x6qgGjoljQBa93lfGFLg2i/_apis/distributedtask/pools/1/messages?sessionId=1c9152da-120c-42d7-b90a-0829230097ec&lastMessageId=1 failed (Socket Error: TimedOut). The operation will be retried in 10.875 seconds.
+[2022-05-19 05:13:05Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 270144e1-83ab-4638-bb68-f64a5045014c
+ActivityId: 60dc2cfc-3363-4dce-844e-d371c37d2e5f
+X-TFS-Session: b557ffb7-f381-4920-bdad-48bf6bedb979
+X-VSS-E2EID: 5c258772-5efb-45e9-b69e-340fa111311e
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 4A46EA4FEDB14862805E024AC60DA24A Ref B: MAA01EDGE0910 Ref C: 2022-05-19T05:13:04Z
+Date: Thu, 19 May 2022 05:13:04 GMT
+
+[2022-05-19 05:13:05Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-19 05:13:07Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-19 05:13:57Z INFO Terminal] WRITE LINE: 2022-05-19 05:13:57Z: Runner reconnected.
+[2022-05-19 05:13:57Z INFO MessageListener] No message retrieved from session '1c9152da-120c-42d7-b90a-0829230097ec' within last 30 minutes.
+[2022-05-19 05:25:13Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-19 05:25:13Z INFO MessageListener] Message '2' received from session '1c9152da-120c-42d7-b90a-0829230097ec'.
+[2022-05-19 05:25:13Z INFO Runner] Received job message of length 21238 from service, with hash 'e0b956eb2b3871d893e6363f5bc9b9e470339af435049d13c1c07533f1abf3db'
+[2022-05-19 05:25:13Z INFO JobDispatcher] Job request 27 for plan b42c29ad-1b46-41a8-886a-03c1734ffe30 job ca395085-040a-526b-2ce8-bdc85f692774 received.
+[2022-05-19 05:25:13Z INFO JobDispatcher] Pull OrchestrationId b42c29ad-1b46-41a8-886a-03c1734ffe30.build.__default from JWT claims
+[2022-05-19 05:25:13Z INFO JobDispatcher] Job request ca395085-040a-526b-2ce8-bdc85f692774 processed succeed.
+[2022-05-19 05:25:13Z INFO Terminal] WRITE LINE: 2022-05-19 05:25:13Z: Running job: build
+[2022-05-19 05:25:13Z INFO JobDispatcher] Start renew job request 27 for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-19 05:25:14Z INFO JobDispatcher] Successfully renew job request 27, job is valid till 19/05/2022 05:35:14
+[2022-05-19 05:25:14Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   File name: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin/Runner.Worker'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 118 121'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2022-05-19 05:25:14Z INFO ProcessInvokerWrapper] Process started with process id 10989, waiting for process exit.
+[2022-05-19 05:25:14Z INFO JobDispatcher] Send job request message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-19 05:25:14Z INFO ProcessChannel] Sending message of length 21238, with hash 'e0b956eb2b3871d893e6363f5bc9b9e470339af435049d13c1c07533f1abf3db'
+[2022-05-19 05:25:14Z INFO JobNotification] Entering JobStarted Notification
+[2022-05-19 05:25:14Z INFO JobNotification] Entering StartMonitor
+[2022-05-19 05:26:15Z INFO JobDispatcher] Successfully renew job request 27, job is valid till 19/05/2022 05:36:15
+[2022-05-19 05:27:15Z INFO JobDispatcher] Successfully renew job request 27, job is valid till 19/05/2022 05:37:15
+[2022-05-19 05:28:16Z INFO JobDispatcher] Successfully renew job request 27, job is valid till 19/05/2022 05:38:16
+[2022-05-19 05:29:16Z INFO JobDispatcher] Successfully renew job request 27, job is valid till 19/05/2022 05:39:16
+[2022-05-19 05:30:00Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:30:00Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:30:00Z INFO ProcessInvokerWrapper] Finished process 10989 with exit code 100, and elapsed time 00:04:45.6348954.
+[2022-05-19 05:30:00Z INFO JobDispatcher] Worker finished for job ca395085-040a-526b-2ce8-bdc85f692774. Code: 100
+[2022-05-19 05:30:00Z INFO JobDispatcher] finish job request for job ca395085-040a-526b-2ce8-bdc85f692774 with result: Succeeded
+[2022-05-19 05:30:00Z INFO Terminal] WRITE LINE: 2022-05-19 05:30:00Z: Job build completed with result: Succeeded
+[2022-05-19 05:30:00Z INFO JobDispatcher] Stop renew job request for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-19 05:30:00Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 27.
+[2022-05-19 05:30:00Z INFO JobNotification] Entering JobCompleted Notification
+[2022-05-19 05:30:00Z INFO JobNotification] Entering EndMonitor
+[2022-05-19 05:30:03Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/.credentials_rsaparams
+[2022-05-19 05:30:03Z INFO MessageListener] Message '3' received from session '1c9152da-120c-42d7-b90a-0829230097ec'.
+[2022-05-19 05:30:03Z INFO Runner] Received job message of length 21238 from service, with hash '113e7b33739a1a07f0467d8eb06688e7d52fc87a36c36895035e8710c69d749e'
+[2022-05-19 05:30:03Z INFO JobDispatcher] Job request 28 for plan 569fab40-25b5-46e1-993a-7b353a354210 job ca395085-040a-526b-2ce8-bdc85f692774 received.
+[2022-05-19 05:30:03Z INFO JobDispatcher] Pull OrchestrationId 569fab40-25b5-46e1-993a-7b353a354210.build.__default from JWT claims
+[2022-05-19 05:30:03Z INFO JobDispatcher] Job request ca395085-040a-526b-2ce8-bdc85f692774 processed succeed.
+[2022-05-19 05:30:03Z INFO Terminal] WRITE LINE: 2022-05-19 05:30:03Z: Running job: build
+[2022-05-19 05:30:03Z INFO JobDispatcher] Start renew job request 28 for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-19 05:30:03Z INFO JobDispatcher] Successfully renew job request 28, job is valid till 19/05/2022 05:40:03
+[2022-05-19 05:30:03Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   File name: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin/Runner.Worker'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 118 121'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2022-05-19 05:30:03Z INFO ProcessInvokerWrapper] Process started with process id 12130, waiting for process exit.
+[2022-05-19 05:30:03Z INFO JobDispatcher] Send job request message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2022-05-19 05:30:03Z INFO ProcessChannel] Sending message of length 21238, with hash '113e7b33739a1a07f0467d8eb06688e7d52fc87a36c36895035e8710c69d749e'
+[2022-05-19 05:30:03Z INFO JobNotification] Entering JobStarted Notification
+[2022-05-19 05:30:03Z INFO JobNotification] Entering StartMonitor
+[2022-05-19 05:31:04Z INFO JobDispatcher] Successfully renew job request 28, job is valid till 19/05/2022 05:41:03
+[2022-05-19 05:32:04Z INFO JobDispatcher] Successfully renew job request 28, job is valid till 19/05/2022 05:42:04
+[2022-05-19 05:33:05Z INFO JobDispatcher] Successfully renew job request 28, job is valid till 19/05/2022 05:43:05

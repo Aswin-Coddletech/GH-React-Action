@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Aswin-Coddletech/GH-React-Action",
+  "pipelineDirectory": "GH-React-Action",
+  "workspaceDirectory": "GH-React-Action/GH-React-Action",
+  "repositories": {
+    "Aswin-Coddletech/GH-React-Action": {
+      "repositoryPath": "GH-React-Action/GH-React-Action",
+      "lastRunOn": "05/18/2022 17:53:47 +05:30"
+    }
+  },
+  "lastRunOn": "05/19/2022 11:00:06 +05:30"
+}
