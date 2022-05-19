@@ -3087,3 +3087,1199 @@
 [2022-05-19 05:35:12Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
 [2022-05-19 05:35:12Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
 [2022-05-19 05:35:12Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:35:22Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:35:23Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:35:23Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:35:33Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:35:33Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:35:33Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:35:42Z INFO JobServerQueue] Try to append 1 batches web console lines for record '50900611-96b2-5a08-ce5b-9701f7d7c3da', success rate: 1/1.
+[2022-05-19 05:35:43Z INFO JobServerQueue] Try to append 1 batches web console lines for record '50900611-96b2-5a08-ce5b-9701f7d7c3da', success rate: 1/1.
+[2022-05-19 05:35:43Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:35:43Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:35:43Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:35:53Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:35:53Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:35:53Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:36:03Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:36:03Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:36:03Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:36:13Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:36:13Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:36:13Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:36:23Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:36:23Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:36:23Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:36:33Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:36:33Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:36:33Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:36:43Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:36:43Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:36:43Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:36:53Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:36:53Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:36:53Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:37:03Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:37:03Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:37:03Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:37:13Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:37:14Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:37:14Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:37:24Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:37:24Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:37:24Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:37:34Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:37:34Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:37:34Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:37:44Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:37:44Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:37:44Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:37:54Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:37:54Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:37:54Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:38:04Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:38:04Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:38:04Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:38:14Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:38:14Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:38:14Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:38:24Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:38:24Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:38:24Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:38:34Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:38:34Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:38:34Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:38:44Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:38:44Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:38:44Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:38:54Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:38:54Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:38:54Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:39:04Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:39:04Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:39:04Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:39:14Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:39:14Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:39:14Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:39:24Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:39:24Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:39:24Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper] Finished process 12379 with exit code 0, and elapsed time 00:08:59.9144688.
+[2022-05-19 05:39:30Z INFO CreateStepSummaryCommand] Step Summary file (/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_runner_file_commands/step_summary_6dbaacd6-7ec7-4b0b-8cd3-a440347b4dc9) is empty; skipping attachment upload
+[2022-05-19 05:39:30Z INFO StepsRunner] Step result: 
+[2022-05-19 05:39:30Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "actions/setup-node",
+  "ref": "v3",
+  "type": "node16",
+  "stage": "Main",
+  "stepId": "50900611-96b2-5a08-ce5b-9701f7d7c3da",
+  "hasPreStep": false,
+  "hasPostStep": true,
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 540
+}.
+[2022-05-19 05:39:30Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2022-05-19 05:39:30Z INFO StepsRunner] Current state: job state = ''
+[2022-05-19 05:39:30Z INFO StepsRunner] Processing step: DisplayName='Run npm i'
+[2022-05-19 05:39:30Z INFO StepsRunner] Evaluating: success()
+[2022-05-19 05:39:30Z INFO StepsRunner] Result: true
+[2022-05-19 05:39:30Z INFO StepsRunner] Starting the step.
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:39:30Z INFO ExecutionContext] Write event payload to /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_github_workflow/event.json
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:39:30Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2022-05-19 05:39:30Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command set-env
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command set-output
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command save-state
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command add-path
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command warning
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command error
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command notice
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command debug
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command group
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2022-05-19 05:39:30Z INFO ActionCommandManager] Register action command extension for command echo
+[2022-05-19 05:39:30Z INFO ScriptHandler] Which: 'bash'
+[2022-05-19 05:39:30Z INFO ScriptHandler] Location: '/bin/bash'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:39:30Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:39:30Z INFO ScriptHandler] Which: 'bash'
+[2022-05-19 05:39:30Z INFO ScriptHandler] Location: '/bin/bash'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   File name: '/bin/bash'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   Arguments: '-e /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/a9789c92-5eea-4c2e-be53-062f1dd5cab9.sh'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/GH-React-Action/GH-React-Action'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:39:30Z INFO ProcessInvokerWrapper] Process started with process id 12600, waiting for process exit.
+[2022-05-19 05:39:31Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2022-05-19 05:39:31Z INFO JobServerQueue] Try to append 1 batches web console lines for record '50900611-96b2-5a08-ce5b-9701f7d7c3da', success rate: 1/1.
+[2022-05-19 05:39:31Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'dd23db01-cff6-57a4-373a-5c8097a97333', success rate: 1/1.
+[2022-05-19 05:39:34Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:39:34Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:39:34Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:39:40Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'dd23db01-cff6-57a4-373a-5c8097a97333', success rate: 1/1.
+[2022-05-19 05:39:44Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:39:44Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:39:44Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:39:54Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:39:54Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:39:54Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:02Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'dd23db01-cff6-57a4-373a-5c8097a97333', success rate: 1/1.
+[2022-05-19 05:40:04Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:04Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:04Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:14Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:14Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:14Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:24Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:24Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:24Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper] Finished process 12600 with exit code 0, and elapsed time 00:00:55.0715573.
+[2022-05-19 05:40:25Z INFO CreateStepSummaryCommand] Step Summary file (/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_runner_file_commands/step_summary_516fa0ec-b956-41d2-9d6e-1960699dbe6a) is empty; skipping attachment upload
+[2022-05-19 05:40:25Z INFO StepsRunner] Step result: 
+[2022-05-19 05:40:25Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "sh",
+  "type": "run",
+  "stage": "Main",
+  "stepId": "dd23db01-cff6-57a4-373a-5c8097a97333",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 56
+}.
+[2022-05-19 05:40:25Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2022-05-19 05:40:25Z INFO StepsRunner] Current state: job state = ''
+[2022-05-19 05:40:25Z INFO StepsRunner] Processing step: DisplayName='Run npm run build --if-present'
+[2022-05-19 05:40:25Z INFO StepsRunner] Evaluating: success()
+[2022-05-19 05:40:25Z INFO StepsRunner] Result: true
+[2022-05-19 05:40:25Z INFO StepsRunner] Starting the step.
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:25Z INFO ExecutionContext] Write event payload to /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_github_workflow/event.json
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:25Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2022-05-19 05:40:25Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command set-env
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command set-output
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command save-state
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command add-path
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command warning
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command error
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command notice
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command debug
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command group
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2022-05-19 05:40:25Z INFO ActionCommandManager] Register action command extension for command echo
+[2022-05-19 05:40:25Z INFO ScriptHandler] Which: 'bash'
+[2022-05-19 05:40:25Z INFO ScriptHandler] Location: '/bin/bash'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:25Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:25Z INFO ScriptHandler] Which: 'bash'
+[2022-05-19 05:40:25Z INFO ScriptHandler] Location: '/bin/bash'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   File name: '/bin/bash'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   Arguments: '-e /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/594eb877-957d-4a2c-af73-da96bd1c269d.sh'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/GH-React-Action/GH-React-Action'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:25Z INFO ProcessInvokerWrapper] Process started with process id 12712, waiting for process exit.
+[2022-05-19 05:40:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'dd23db01-cff6-57a4-373a-5c8097a97333', success rate: 1/1.
+[2022-05-19 05:40:26Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2022-05-19 05:40:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87b991c0-db8a-593e-4233-d8a37f15e4c9', success rate: 1/1.
+[2022-05-19 05:40:27Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87b991c0-db8a-593e-4233-d8a37f15e4c9', success rate: 1/1.
+[2022-05-19 05:40:29Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87b991c0-db8a-593e-4233-d8a37f15e4c9', success rate: 1/1.
+[2022-05-19 05:40:34Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:34Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:34Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper] Finished process 12712 with exit code 0, and elapsed time 00:00:15.0443660.
+[2022-05-19 05:40:40Z INFO CreateStepSummaryCommand] Step Summary file (/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_runner_file_commands/step_summary_29d63cb6-2b40-4c71-addd-057c5903fbb0) is empty; skipping attachment upload
+[2022-05-19 05:40:40Z INFO StepsRunner] Step result: 
+[2022-05-19 05:40:40Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "sh",
+  "type": "run",
+  "stage": "Main",
+  "stepId": "87b991c0-db8a-593e-4233-d8a37f15e4c9",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 16
+}.
+[2022-05-19 05:40:40Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2022-05-19 05:40:40Z INFO StepsRunner] Current state: job state = ''
+[2022-05-19 05:40:40Z INFO StepsRunner] Processing step: DisplayName='Run npm test'
+[2022-05-19 05:40:40Z INFO StepsRunner] Evaluating: success()
+[2022-05-19 05:40:40Z INFO StepsRunner] Result: true
+[2022-05-19 05:40:40Z INFO StepsRunner] Starting the step.
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:40Z INFO ExecutionContext] Write event payload to /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_github_workflow/event.json
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:40Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2022-05-19 05:40:40Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command set-env
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command set-output
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command save-state
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command add-path
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command warning
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command error
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command notice
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command debug
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command group
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2022-05-19 05:40:40Z INFO ActionCommandManager] Register action command extension for command echo
+[2022-05-19 05:40:40Z INFO ScriptHandler] Which: 'bash'
+[2022-05-19 05:40:40Z INFO ScriptHandler] Location: '/bin/bash'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:40Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:40Z INFO ScriptHandler] Which: 'bash'
+[2022-05-19 05:40:40Z INFO ScriptHandler] Location: '/bin/bash'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   File name: '/bin/bash'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   Arguments: '-e /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/611c0c2e-ba86-4c12-8152-4caa54a5d34e.sh'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/GH-React-Action/GH-React-Action'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:40Z INFO ProcessInvokerWrapper] Process started with process id 12731, waiting for process exit.
+[2022-05-19 05:40:41Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87b991c0-db8a-593e-4233-d8a37f15e4c9', success rate: 1/1.
+[2022-05-19 05:40:41Z INFO JobServerQueue] Try to append 1 batches web console lines for record '6cb15225-bace-5236-3d64-8b6d88bf381f', success rate: 1/1.
+[2022-05-19 05:40:41Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2022-05-19 05:40:42Z INFO JobServerQueue] Try to append 1 batches web console lines for record '6cb15225-bace-5236-3d64-8b6d88bf381f', success rate: 1/1.
+[2022-05-19 05:40:44Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:44Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:44Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper] Finished process 12731 with exit code 0, and elapsed time 00:00:04.8797903.
+[2022-05-19 05:40:45Z INFO CreateStepSummaryCommand] Step Summary file (/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_runner_file_commands/step_summary_622348f9-4f8b-4a6a-97f7-50e49a21f86b) is empty; skipping attachment upload
+[2022-05-19 05:40:45Z INFO StepsRunner] Step result: 
+[2022-05-19 05:40:45Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "sh",
+  "type": "run",
+  "stage": "Main",
+  "stepId": "6cb15225-bace-5236-3d64-8b6d88bf381f",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 5
+}.
+[2022-05-19 05:40:45Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2022-05-19 05:40:45Z INFO StepsRunner] Current state: job state = ''
+[2022-05-19 05:40:45Z INFO StepsRunner] Processing step: DisplayName='Post Use Node.js '
+[2022-05-19 05:40:45Z INFO StepsRunner] Evaluating: success()
+[2022-05-19 05:40:45Z INFO StepsRunner] Result: true
+[2022-05-19 05:40:45Z INFO StepsRunner] Starting the step.
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Actions': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_actions'
+[2022-05-19 05:40:45Z INFO ActionManager] Load action that reference repository from '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_actions/actions/setup-node/v3'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Actions': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_actions'
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Ignore action property author.
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Loaded action.yml file: {
+  "name": "Setup Node.js environment",
+  "description": "Setup a Node.js environment by adding problem matchers and optionally downloading and adding it to the PATH.",
+  "inputs": {
+    "type": 2,
+    "map": [
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 5,
+          "col": 3,
+          "lit": "always-auth"
+        },
+        "value": {
+          "type": 0,
+          "file": 3,
+          "line": 7,
+          "col": 14,
+          "lit": "false"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 8,
+          "col": 3,
+          "lit": "node-version"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 10,
+          "col": 3,
+          "lit": "node-version-file"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 12,
+          "col": 3,
+          "lit": "architecture"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 14,
+          "col": 3,
+          "lit": "check-latest"
+        },
+        "value": {
+          "type": 0,
+          "file": 3,
+          "line": 16,
+          "col": 14,
+          "lit": "false"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 17,
+          "col": 3,
+          "lit": "registry-url"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 19,
+          "col": 3,
+          "lit": "scope"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 21,
+          "col": 3,
+          "lit": "token"
+        },
+        "value": {
+          "type": 3,
+          "file": 3,
+          "line": 23,
+          "col": 14,
+          "expr": "github.token"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 24,
+          "col": 3,
+          "lit": "cache"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 3,
+          "line": 26,
+          "col": 3,
+          "lit": "cache-dependency-path"
+        },
+        "value": ""
+      }
+    ]
+  },
+  "execution": {
+    "executionType": "nodeJS",
+    "hasPre": false,
+    "hasPost": true,
+    "script": "dist/setup/index.js",
+    "pre": null,
+    "post": "dist/cache-save/index.js",
+    "nodeVersion": "node16",
+    "cleanupCondition": "success()",
+    "initCondition": "always()"
+  },
+  "deprecated": null
+}
+[2022-05-19 05:40:45Z INFO ActionManager] Action pre node.js file: N/A.
+[2022-05-19 05:40:45Z INFO ActionManager] Action node.js file: dist/setup/index.js.
+[2022-05-19 05:40:45Z INFO ActionManager] Action post node.js file: dist/cache-save/index.js.
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:45Z INFO ExecutionContext] Write event payload to /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_github_workflow/event.json
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:45Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Input 'always-auth': default value evaluate result: {
+  "type": 0,
+  "file": 3,
+  "line": 7,
+  "col": 14,
+  "lit": "false"
+}
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Input 'node-version-file': default value evaluate result: ""
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Input 'architecture': default value evaluate result: ""
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Input 'check-latest': default value evaluate result: {
+  "type": 0,
+  "file": 3,
+  "line": 16,
+  "col": 14,
+  "lit": "false"
+}
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Input 'registry-url': default value evaluate result: ""
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Input 'scope': default value evaluate result: ""
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Input 'token': default value evaluate result: {
+  "type": 0,
+  "file": 3,
+  "line": 23,
+  "col": 14,
+  "lit": "***"
+}
+[2022-05-19 05:40:45Z INFO ActionManifestManager] Input 'cache-dependency-path': default value evaluate result: ""
+[2022-05-19 05:40:45Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command set-env
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command set-output
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command save-state
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command add-path
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command warning
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command error
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command notice
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command debug
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command group
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2022-05-19 05:40:45Z INFO ActionCommandManager] Register action command extension for command echo
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:45Z INFO HostContext] Well known directory 'Externals': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/externals'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   File name: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/externals/node16/bin/node'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   Arguments: '"/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_actions/actions/setup-node/v3/dist/cache-save/index.js"'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/GH-React-Action/GH-React-Action'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:45Z INFO ProcessInvokerWrapper] Process started with process id 12754, waiting for process exit.
+[2022-05-19 05:40:45Z INFO JobServerQueue] Try to append 1 batches web console lines for record '6cb15225-bace-5236-3d64-8b6d88bf381f', success rate: 1/1.
+[2022-05-19 05:40:46Z INFO JobServerQueue] Try to append 1 batches web console lines for record '73dea3f9-61b3-4e7d-8e39-26ff32f7f019', success rate: 1/1.
+[2022-05-19 05:40:46Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper] Finished process 12754 with exit code 0, and elapsed time 00:00:01.0088141.
+[2022-05-19 05:40:46Z INFO CreateStepSummaryCommand] Step Summary file (/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_runner_file_commands/step_summary_800d27a3-d8fd-426b-8648-d80f1c68f14c) is empty; skipping attachment upload
+[2022-05-19 05:40:46Z INFO StepsRunner] Step result: 
+[2022-05-19 05:40:46Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "actions/setup-node",
+  "ref": "v3",
+  "type": "node16",
+  "stage": "Post",
+  "stepId": "73dea3f9-61b3-4e7d-8e39-26ff32f7f019",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 2
+}.
+[2022-05-19 05:40:46Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2022-05-19 05:40:46Z INFO StepsRunner] Current state: job state = ''
+[2022-05-19 05:40:46Z INFO StepsRunner] Processing step: DisplayName='Post Run actions/checkout@v3'
+[2022-05-19 05:40:46Z INFO StepsRunner] Evaluating: always()
+[2022-05-19 05:40:46Z INFO StepsRunner] Result: true
+[2022-05-19 05:40:46Z INFO StepsRunner] Starting the step.
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Actions': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_actions'
+[2022-05-19 05:40:46Z INFO ActionManager] Load action that reference repository from '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_actions/actions/checkout/v3'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Actions': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_actions'
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Loaded action.yml file: {
+  "name": "Checkout",
+  "description": "Checkout a Git repository at a particular version",
+  "inputs": {
+    "type": 2,
+    "map": [
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 4,
+          "col": 3,
+          "lit": "repository"
+        },
+        "value": {
+          "type": 3,
+          "file": 2,
+          "line": 6,
+          "col": 14,
+          "expr": "github.repository"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 7,
+          "col": 3,
+          "lit": "ref"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 12,
+          "col": 3,
+          "lit": "token"
+        },
+        "value": {
+          "type": 3,
+          "file": 2,
+          "line": 24,
+          "col": 14,
+          "expr": "github.token"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 25,
+          "col": 3,
+          "lit": "ssh-key"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 37,
+          "col": 3,
+          "lit": "ssh-known-hosts"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 42,
+          "col": 3,
+          "lit": "ssh-strict"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 47,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 48,
+          "col": 3,
+          "lit": "persist-credentials"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 50,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 51,
+          "col": 3,
+          "lit": "path"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 53,
+          "col": 3,
+          "lit": "clean"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 55,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 56,
+          "col": 3,
+          "lit": "fetch-depth"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 58,
+          "col": 14,
+          "lit": "1"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 59,
+          "col": 3,
+          "lit": "lfs"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 61,
+          "col": 14,
+          "lit": "false"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 62,
+          "col": 3,
+          "lit": "submodules"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 70,
+          "col": 14,
+          "lit": "false"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 71,
+          "col": 3,
+          "lit": "set-safe-directory"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 73,
+          "col": 14,
+          "lit": "true"
+        }
+      }
+    ]
+  },
+  "execution": {
+    "executionType": "nodeJS",
+    "hasPre": false,
+    "hasPost": true,
+    "script": "dist/index.js",
+    "pre": null,
+    "post": "dist/index.js",
+    "nodeVersion": "node16",
+    "cleanupCondition": "always()",
+    "initCondition": "always()"
+  },
+  "deprecated": null
+}
+[2022-05-19 05:40:46Z INFO ActionManager] Action pre node.js file: N/A.
+[2022-05-19 05:40:46Z INFO ActionManager] Action node.js file: dist/index.js.
+[2022-05-19 05:40:46Z INFO ActionManager] Action post node.js file: dist/index.js.
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:46Z INFO ExecutionContext] Write event payload to /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_github_workflow/event.json
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Work': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Temp': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp'
+[2022-05-19 05:40:46Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'repository': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 6,
+  "col": 14,
+  "lit": "Aswin-Coddletech/GH-React-Action"
+}
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'ref': default value evaluate result: ""
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'token': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 24,
+  "col": 14,
+  "lit": "***"
+}
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'ssh-key': default value evaluate result: ""
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'ssh-known-hosts': default value evaluate result: ""
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'ssh-strict': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 47,
+  "col": 14,
+  "lit": "true"
+}
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'persist-credentials': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 50,
+  "col": 14,
+  "lit": "true"
+}
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'path': default value evaluate result: ""
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'clean': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 55,
+  "col": 14,
+  "lit": "true"
+}
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'fetch-depth': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 58,
+  "col": 14,
+  "lit": "1"
+}
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'lfs': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 61,
+  "col": 14,
+  "lit": "false"
+}
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'submodules': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 70,
+  "col": 14,
+  "lit": "false"
+}
+[2022-05-19 05:40:46Z INFO ActionManifestManager] Input 'set-safe-directory': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 73,
+  "col": 14,
+  "lit": "true"
+}
+[2022-05-19 05:40:46Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command set-env
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command set-output
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command save-state
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command add-path
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command warning
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command error
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command notice
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command debug
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command group
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2022-05-19 05:40:46Z INFO ActionCommandManager] Register action command extension for command echo
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:46Z INFO HostContext] Well known directory 'Externals': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/externals'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   File name: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/externals/node16/bin/node'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   Arguments: '"/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_actions/actions/checkout/v3/dist/index.js"'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/GH-React-Action/GH-React-Action'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:46Z INFO ProcessInvokerWrapper] Process started with process id 12756, waiting for process exit.
+[2022-05-19 05:40:46Z INFO AddMaskCommandExtension] Add new secret mask with length of 32
+[2022-05-19 05:40:46Z INFO JobServerQueue] Try to append 1 batches web console lines for record '73dea3f9-61b3-4e7d-8e39-26ff32f7f019', success rate: 1/1.
+[2022-05-19 05:40:47Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'af4c923b-c7c4-4667-9e24-0f90d7c38dd0', success rate: 1/1.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12756 with exit code 0, and elapsed time 00:00:00.7628762.
+[2022-05-19 05:40:47Z INFO CreateStepSummaryCommand] Step Summary file (/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp/_runner_file_commands/step_summary_3c7a124f-0458-40d0-bf1f-475f286ebbdf) is empty; skipping attachment upload
+[2022-05-19 05:40:47Z INFO StepsRunner] Step result: 
+[2022-05-19 05:40:47Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "actions/checkout",
+  "ref": "v3",
+  "type": "node16",
+  "stage": "Post",
+  "stepId": "af4c923b-c7c4-4667-9e24-0f90d7c38dd0",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 1
+}.
+[2022-05-19 05:40:47Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2022-05-19 05:40:47Z INFO StepsRunner] Current state: job state = ''
+[2022-05-19 05:40:47Z INFO JobRunner] Finalize job.
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Diag': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_diag'
+[2022-05-19 05:40:47Z INFO JobExtension] Initialize Env context
+[2022-05-19 05:40:47Z INFO JobExtension] Initialize steps context
+[2022-05-19 05:40:47Z INFO JobExtension] Total accessible running process: 267.
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12753 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12753 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12753 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12833, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12833 with exit code 0, and elapsed time 00:00:00.0230205.
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Successfully dump environment variables for 12753
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12752 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12752 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12752 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12834, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12834 with exit code 1, and elapsed time 00:00:00.0195166.
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12751 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12751 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12751 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12835, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12835 with exit code 1, and elapsed time 00:00:00.0135186.
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12750 (Microsoft Teams)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12750 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12750 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12836, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12836 with exit code 0, and elapsed time 00:00:00.0144377.
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Successfully dump environment variables for 12750
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12747 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12747 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12747 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12837, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12837 with exit code 0, and elapsed time 00:00:00.0148282.
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Successfully dump environment variables for 12747
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12742 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12742 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12742 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12838, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12838 with exit code 0, and elapsed time 00:00:00.0153328.
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Successfully dump environment variables for 12742
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12741 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12741 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12741 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12839, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12839 with exit code 1, and elapsed time 00:00:00.0099335.
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12739 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12739 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12739 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12840, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12840 with exit code 1, and elapsed time 00:00:00.0075889.
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12733 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12733 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12733 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12842, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12842 with exit code 1, and elapsed time 00:00:00.0091053.
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12729 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12729 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12729 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12843, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12843 with exit code 1, and elapsed time 00:00:00.0091043.
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12714 (mdworker_shared)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12714 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12714 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12844, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12844 with exit code 0, and elapsed time 00:00:00.0126459.
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Successfully dump environment variables for 12714
+[2022-05-19 05:40:47Z INFO JobExtension] Inspecting process environment variables. PID: 12563 (Google Chrome H)
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Read env from output of `ps e -p 12563 -o command`
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:47Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Starting process:
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   File name: 'ps'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Arguments: 'e -p 12563 -o command'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Working directory: '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Process started with process id 12845, waiting for process exit.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-05-19 05:40:47Z INFO ProcessInvokerWrapper] Finished process 12845 with exit code 0, and elapsed time 00:00:00.0107502.
+[2022-05-19 05:40:47Z INFO LinuxProcessExtensions] Successfully dump environment variables for 12563
+[2022-05-19 05:40:47Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "complete_job",
+  "type": "runner",
+  "stage": "Post",
+  "stepId": "56189eed-d397-4264-8a1a-38a825521984",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 1
+}.
+[2022-05-19 05:40:47Z INFO JobRunner] Job result after all job steps finish: Succeeded
+[2022-05-19 05:40:47Z INFO JobRunner] Completing the job execution context.
+[2022-05-19 05:40:47Z INFO JobRunner] Shutting down the job server queue.
+[2022-05-19 05:40:47Z INFO JobServerQueue] Fire signal to shutdown all queues.
+[2022-05-19 05:40:47Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2022-05-19 05:40:48Z INFO JobServerQueue] All queue process task stopped.
+[2022-05-19 05:40:49Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'af4c923b-c7c4-4667-9e24-0f90d7c38dd0', success rate: 1/1.
+[2022-05-19 05:40:49Z INFO JobServerQueue] Try to append 1 batches web console lines for record '56189eed-d397-4264-8a1a-38a825521984', success rate: 1/1.
+[2022-05-19 05:40:49Z INFO JobServerQueue] Web console line queue drained.
+[2022-05-19 05:40:49Z INFO JobServerQueue] Uploading 3 files in one shot.
+[2022-05-19 05:40:51Z INFO JobServerQueue] Try to upload 3 log files or attachments, success rate: 3/3.
+[2022-05-19 05:40:51Z INFO JobServerQueue] File upload queue drained.
+[2022-05-19 05:40:51Z INFO JobServerQueue] Timeline update queue drained.
+[2022-05-19 05:40:51Z INFO JobServerQueue] Disposing job server ...
+[2022-05-19 05:40:51Z INFO JobServerQueue] All queue process tasks have been stopped, and all queues are drained.
+[2022-05-19 05:40:51Z INFO TempDirectoryManager] Cleaning runner temp folder: /Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_work/_temp
+[2022-05-19 05:40:51Z INFO HostContext] Well known directory 'Bin': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/bin'
+[2022-05-19 05:40:51Z INFO HostContext] Well known directory 'Root': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner'
+[2022-05-19 05:40:51Z INFO HostContext] Well known directory 'Diag': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_diag'
+[2022-05-19 05:40:51Z INFO HostContext] Well known config file 'Telemetry': '/Users/aswinm/Documents/CoddleTech/GithubActions/self-hosted-runner/self-hosted/actions-runner/_diag/.telemetry'
+[2022-05-19 05:40:51Z INFO JobRunner] Raising job completed event
+[2022-05-19 05:40:52Z INFO Worker] Job completed.
